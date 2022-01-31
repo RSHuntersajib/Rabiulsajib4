@@ -1,10 +1,29 @@
 - 👋 Hi, I’m @Rabiulsajib4
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-Rabiulsajib4/Rabiulsajib4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+apt update && apt upgrade
+
+Pkg install python2
+
+Pkg install git
+
+Pip2 install requests
+
+Pkg install pip2
+
+git clone 
+
+ls
+
+cd rs
+
+ls
+
+chmod +x rs
+
+Python2 RS.py
+
+
+Username: RS
+
+Password:Hunter
